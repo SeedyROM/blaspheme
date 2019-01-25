@@ -1,0 +1,26 @@
+name: blaspheme
+version: 0.1.0
+
+authors:
+  - Zack Kollar <rallokkcaz@gmail.com>
+
+targets:
+  blaspheme:
+    main: src/blaspheme.cr
+
+dependencies:
+  mongo_orm:
+    github: sam0x17/mongo_orm
+  kemal:
+    github: kemalcr/kemal
+
+development_dependencies:
+  sentry:
+    github: samueleaton/sentry
+    branch: master
+  sentry-run:
+    github: faustinoaq/sentry-run
+
+crystal: 0.27.0
+
+license: MIT
