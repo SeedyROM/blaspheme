@@ -1,22 +1,23 @@
 # blaspheme
 
-TODO: Write a description here
+Another experiment in Crystal JSON-APIs
 
 ## Installation
 
-TODO: Write installation instructions here
+* Run `shards update`
 
 ## Usage
 
-TODO: Write usage instructions here
+* Create a bin folder `mkdir -p ./bin`
+* Run the application `crystal ./src/blaspheme`
 
 ## Development
 
-TODO: Write development instructions here
+Clone this puppy and write some code!
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/blaspheme/fork>)
+1. Fork it (<https://github.com/SeedyROM/blaspheme/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -24,4 +25,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Zack Kollar](https://github.com/your-github-user) - creator and maintainer
+* [Zack Kollar](https://github.com/SeedyROM) - creator and maintainer
